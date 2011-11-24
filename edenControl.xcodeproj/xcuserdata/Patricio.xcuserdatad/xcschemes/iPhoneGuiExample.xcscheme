@@ -14,7 +14,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-               BuildableName = "jeraControl.app"
+               BuildableName = "edenControl.app"
                BlueprintName = "edenControl"
                ReferencedContainer = "container:edenControl.xcodeproj">
             </BuildableReference>
@@ -32,7 +32,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "jeraControl.app"
+            BuildableName = "edenControl.app"
             BlueprintName = "edenControl"
             ReferencedContainer = "container:edenControl.xcodeproj">
          </BuildableReference>
@@ -51,7 +51,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "jeraControl.app"
+            BuildableName = "edenControl.app"
             BlueprintName = "edenControl"
             ReferencedContainer = "container:edenControl.xcodeproj">
          </BuildableReference>
@@ -69,7 +69,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "jeraControl.app"
+            BuildableName = "edenControl.app"
             BlueprintName = "edenControl"
             ReferencedContainer = "container:edenControl.xcodeproj">
          </BuildableReference>

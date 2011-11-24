@@ -11,7 +11,6 @@
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
-		3D5E09E5146D62C60047B07F /* icons.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D5E09E4146D62C60047B07F /* icons.png */; };
 		3D9FCA5F146ECC0200A15D29 /* logoColor-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D9FCA5E146ECC0200A15D29 /* logoColor-72.png */; };
 		3DA54904146958EC00B006EA /* install.xml in Resources */ = {isa = PBXBuildFile; fileRef = 3DA548D4146958EC00B006EA /* install.xml */; };
 		3DA54905146958EC00B006EA /* liboscpack.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DA548EA146958EC00B006EA /* liboscpack.a */; };
@@ -86,7 +85,6 @@
 		232ebc95d96301c5a5138a3247b1ace2 /* MyGuiView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = MyGuiView.mm; path = src/gui/MyGuiView.mm; sourceTree = SOURCE_ROOT; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		32CA4F630368D1EE00C91783 /* iPhone_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iPhone_Prefix.pch; sourceTree = "<group>"; };
-		3D5E09E4146D62C60047B07F /* icons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icons.png; sourceTree = "<group>"; };
 		3D9FCA5E146ECC0200A15D29 /* logoColor-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logoColor-72.png"; sourceTree = "<group>"; };
 		3DA548D4146958EC00B006EA /* install.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = install.xml; sourceTree = "<group>"; };
 		3DA548D9146958EC00B006EA /* IpEndpointName.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IpEndpointName.h; sourceTree = "<group>"; };
@@ -219,7 +217,6 @@
 			isa = PBXGroup;
 			children = (
 				3D9FCA5E146ECC0200A15D29 /* logoColor-72.png */,
-				3D5E09E4146D62C60047B07F /* icons.png */,
 				3DA549171469594F00B006EA /* Default-Landscape~ipad.png */,
 				E4D8936A11527B74007E1F53 /* src */,
 				BB24DD8B10DA77E000E9C588 /* data */,
@@ -583,7 +580,6 @@
 				3DA5494214695EDA00B006EA /* 5s.png in Resources */,
 				3DA5494314695EDA00B006EA /* info.png in Resources */,
 				3DA5494414695EDA00B006EA /* logo.png in Resources */,
-				3D5E09E5146D62C60047B07F /* icons.png in Resources */,
 				3D9FCA5F146ECC0200A15D29 /* logoColor-72.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

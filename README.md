@@ -1,6 +1,6 @@
-Eden is a real-time ecosystem simulation program writed on openFrameworks for my project [Efecto Mariposa](http://patriciogonzalezvivo.com/butterfly.html "Efecto Mariposa").
+_Eden_ is a real-time ecosystem simulation program writed on openFrameworks for my project [Efecto Mariposa](http://patriciogonzalezvivo.com/butterfly.html "Efecto Mariposa").
 
-EdenControl it´s a remote control application for iPad to control it throught OSC.
+_EdenControl_ it´s a remote control application for iPad to control it throught OSC.
 
 Watch the [video](http://vimeo.com/31940579) of bouth working together.
 

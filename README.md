@@ -1,3 +1,5 @@
+# [EdenControl ![eden](http://patriciogonzalezvivo.com/images/projects/15butterfly1.jpg)](http://patriciogonzalezvivo.com/2011/efectomariposa/) #
+
 _Eden_ is a real-time ecosystem simulation program writed on openFrameworks for my project [Efecto Mariposa](http://patriciogonzalezvivo.com/butterfly.html "Efecto Mariposa").
 
 _EdenControl_ it´s a remote control application for iPad to control it throught OSC.

@@ -1,4 +1,6 @@
-# [EdenControl ![eden](http://patriciogonzalezvivo.com/2011/eden/thumb.jpg)](http://patriciogonzalezvivo.com/2011/eden/) #
+# [EdenControl](http://patriciogonzalezvivo.com/2011/eden/) 
+[![eden](http://patriciogonzalezvivo.com/2011/eden/thumb.jpg)](http://patriciogonzalezvivo.com/2011/eden/) 
+##### by [Patricio Gonzalez Vivo](http://www.patriciogonzalezvivo.com)
 
 _Eden_ is a real-time ecosystem simulation program writed on openFrameworks for my project [Efecto Mariposa](http://patriciogonzalezvivo.com/butterfly.html "Efecto Mariposa").
 
